@@ -1,0 +1,8 @@
+20190916 xa
+
+Creado usuario en GitHub (xavmun)
+Creado repositorio: ed con README.md y .gitignore (plantilla java)
+Para clonar en local:
+	git clone https://github.com/xavmun/ed.git
+
+
