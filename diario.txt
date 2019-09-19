@@ -1,4 +1,4 @@
-20190916 xa
+16092019 xa
 
 Creado usuario en GitHub (xavmun)
 Creado repositorio: ed con README.md y .gitignore (plantilla java)
@@ -6,3 +6,8 @@ Para clonar en local:
 	git clone https://github.com/xavmun/ed.git
 
 
+19092019
+
+git config --global user.name xavmun
+git config --global user.email xavmun@alu.iesserpis.org
+git config --global push.default simple
